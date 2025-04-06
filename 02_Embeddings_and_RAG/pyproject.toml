@@ -15,4 +15,13 @@ dependencies = [
     "python-dotenv>=1.0.1",
     "scikit-learn>=1.6.1",
     "scipy>=1.15.1",
+    "pypdf>=5.4.0",
+    "pypdf2>=3.0.1",
+    "faiss-cpu>=1.0.2",
+    "langchain>=0.2.11",
+    "langchain-openai>=0.2.11",
+    "langchain-community>=0.2.11",
+    "langchain-core>=0.2.11",
+    "numpy>=1.26.1",
+    "torch>=2.2.0",
 ]
