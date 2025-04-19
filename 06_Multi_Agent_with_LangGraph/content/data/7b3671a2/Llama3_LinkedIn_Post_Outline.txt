@@ -1,0 +1,25 @@
+# LinkedIn Post Outline
+
+## 1. Introduction
+- Exciting news in AI research
+
+## 2. Overview of the paper
+- 'Extending Llama-3’s Context Ten-Fold Overnight'
+
+## 3. Key achievement
+- Extending context length from 8,000 to 80,000 tokens
+
+## 4. Impact of the enhancement
+- Language processing and applications
+
+## 5. Innovative technique
+- Quantized Low-Rank Adaptation (QLoRA) for fine-tuning
+
+## 6. Efficiency of the training process
+- Completed in 8 hours on a single GPU
+
+## 7. Implications for long-context language understanding
+- Performance across diverse evaluation tasks
+
+## 8. Acknowledgment
+- Recognition of the research team's efforts
